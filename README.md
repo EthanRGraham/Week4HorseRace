@@ -8,4 +8,10 @@ move horse with indexing..(?)
 if horse hits the end, = winner
 ..........1
 "winner!"
+constnumhorsesand racetrack
+
+main
+initialize the track and horses, get everything set uo
+each turn involves asking each horse to advance and printing each horses line
+that happens untill oneof the horses finishes the game
 
