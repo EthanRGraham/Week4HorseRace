@@ -34,10 +34,10 @@ print a "."
 
 the horses aren't moving, we are just re-printing the track
 
-for i in NUM_HORSES;
-  0 to TRACK_LENGTH print "."
-    if = horse(i);
-      print horse
+for horse in NUM_HORSES;
+  print "." from 0 to TRACK_LENGTH
+    if loop index is == value of horse;
+        print horse's id 
               \n
   
   i(the horse of that row will be printed when the loop is = to the value of the horse.)
