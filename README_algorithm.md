@@ -21,7 +21,7 @@ for each horse in the array
 
   given a horse number and the array of horses
   roll a 0 or 1 value, place it in coin
-  add coin to the hore's position value in the array
+  add coin to the horse's position value in the array
 
 
 Printlane()
